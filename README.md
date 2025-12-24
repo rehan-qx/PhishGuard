@@ -65,4 +65,4 @@ Do not use this tool to scan government or military networks without permission.
 
 The developer is not responsible for any misuse of this software.
 
-### Developed by **[Muhammad Rehan Afzal]** | Sentinel-X PhishGuard (v1.0)
+### Developed by **[.0xR00t]** | Sentinel-X PhishGuard (v1.0)
